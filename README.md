@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola 👋, me llamo Oscar</h1>
 <h3 align="center">Soy un apasionado del del desarrollo de software</h3>
 
